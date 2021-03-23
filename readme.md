@@ -483,7 +483,8 @@
 - [Contexture](https://github.com/chrislatorres/awesome-contexture#readme) - Abstracts queries/filters and results/aggregations from different backing data stores like ElasticSearch and MongoDB.
 - [Database Tools](https://github.com/mgramin/awesome-db-tools#readme) - Everything that makes working with databases easier.
 - [Grakn](https://github.com/graknlabs/awesome#readme) - Logical database to organize large and complex networks of data as one body of knowledge.
-
+- [Sqlite](https://github.com/sqlite/sqlite) - Fast, self-contained, high-reliability, full-featured, SQL database engine
+- 
 ## Media
 
 - [Creative Commons Media](https://github.com/shime/creative-commons-media#readme)
